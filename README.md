@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ahmedhamedalnaamani20@gmail.com**
 
-- ⚡ Fun fact **I bench 225lb :weight_lifting_man:**
+- ⚡ Fun fact **I bench 225lbs for reps :weight_lifting_man:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
