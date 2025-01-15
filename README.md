@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alnaamaniahmed" alt="alnaamaniahmed" /></a> </p>
 
 
-- 🔭 I’m currently working on **my personal website**
+- 🔭 I’m currently working on **Achieving top 10 in CTFS**
 
-- 🌱 I’m currently learning **React.js, Ethical hacking**
+- 🌱 I’m currently learning **React-Native, COMPTIA Security+**
 
 - 📫 How to reach me **ahmedhamedalnaamani20@gmail.com**
 
