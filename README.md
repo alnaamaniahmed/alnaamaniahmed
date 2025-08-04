@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alnaamaniahmed" alt="alnaamaniahmed" /></a> </p>
 
 
-- 🔭 I’m currently working on **AWS CPP**
-
 - 🌱 I’m currently learning **COMPTIA Security+**
 
 - 📫 How to reach me **ahmedhamedalnaamani20@gmail.com**
