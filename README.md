@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alnaamaniahmed" alt="alnaamaniahmed" /></a> </p>
 
 
-- 🌱 I’m currently learning **COMPTIA Security+**
+- 🌱 I’m currently learning **ejpt**
 
 - 📫 How to reach me **ahmedhamedalnaamani20@gmail.com**
 
