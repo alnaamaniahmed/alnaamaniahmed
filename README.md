@@ -5,10 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnaamaniahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alnaamaniahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alnaamaniahmed" alt="alnaamaniahmed" /></a> </p>
 
-
-- 🌱 I’m currently learning **ejpt**
+- 🌱 I’m working on my Home Lab ;)
 
 - 📫 How to reach me **ahmedhamedalnaamani20@gmail.com**
 
