@@ -1,16 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
-<h1 align="center">Hi 👋, I'm Ahmed Al-Naamani</h1>
-<h3 align="center">A passionate full stack web developer</h3>
 <img align="right" alt="coder" height="400" width="400" src="https://i.pinimg.com/originals/6a/72/7f/6a727fbad9da6105c529b6a9dacd2826.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnaamaniahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alnaamaniahmed" /> </p>
-
-
-- 🌱 I’m working on my Home Lab ;)
-
-- 📫 How to reach me **ahmedhamedalnaamani20@gmail.com**
-
-- ⚡ Fun fact **I bench 225lbs for reps :weight_lifting_man:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
